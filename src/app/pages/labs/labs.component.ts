@@ -16,5 +16,8 @@ export class LabsComponent {
     "Instalar el Angular CLI",
     "Crear proyecto",
     "Crear componentes"
-  ]
+  ];
+  name = "Raúl";
+  lasname = "Sánchez";
+  age = "25"
 }
